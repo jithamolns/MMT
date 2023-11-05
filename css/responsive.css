@@ -1,0 +1,948 @@
+
+@media(min-width:1350px){
+
+	/* =====manjusha oct 24 start=============== */
+	.insider-mmt{
+		 padding: 63px 32px 32px;
+		margin:0 auto;
+	}
+	.top-in-max{
+		max-width: 1300px;
+		margin: auto;
+	}
+	.insider-mmt h3{
+		margin:3px 0;
+	}
+	.we-are-mmt h3 {
+	    font-size: 17px;
+	}
+	/* =====manjusha oct 24 end=============== */
+}
+@media(min-width:1450px){
+
+	/* =========nov 7 start========== */
+	.top-in-max{
+		max-width: 1400px;
+		margin: auto;
+	}x
+	/* =========nov 7 end========== */
+}
+/* Jitha */
+@media (max-width: 1550px){
+  .products-banner img{
+    height: 400px;
+  }
+  .banner-item h2{
+		font-size: 40px;
+		line-height: 46px;
+	}
+	.banner-item .image{
+		bottom: -93px;
+	}
+	.we-are-mmt h3 {
+    font-size: 20px;
+	}
+	.we-are-mmt h1 {
+    font-size: 23px;
+	}
+	p {
+    font-size: 14px;
+	}
+	.product-home-slider-item h2 {
+    font-size: 38px;
+		line-height: 48px;
+	}
+	.owl-carousel .owl-item .product-home-slider-item img{
+		height: 300px;
+	}
+	.getquote-white-box h3 {
+    font-size: 26px;
+	}
+	.common-title {
+    font-size: 30px;
+	}
+	.service-caption h3{
+		font-size: 20px;
+	}
+	.events-h-section-slider h3{
+		font-size: 20px;
+	}
+	.events-h-section-slider p{
+		font-size: 15px;
+	}
+	.offer-section-block span {
+    font-size: 20px;
+	}
+	.offer-section-block h3 {
+    font-size: 35px;
+	}
+	.our-team-h h2{
+		font-size: 30px;
+	}
+	.the-footer h3{
+		font-size: 18px;
+	}
+	.the-footer p, .the-footer p a{
+		font-size: 15px;
+	}
+  .place-in-left h1{
+    font-size: 27px;
+  }
+  .place-in-left h2{
+    font-size: 20px;
+  }
+  .compression-sect h2{
+    font-size: 20px;
+  }
+  .compressor-menus li a, .make-100 li, .compressor-content-show p{
+    font-size: 15px;
+  }
+  .overview-inst{
+    font-size: 18px;
+  }
+  .offer-content h5{
+    font-size: 40px;
+  }
+  .offer-content h6{
+    font-size: 30px;
+  }
+  /* ==============oct 25 start=============================   */
+	.offer-image img{
+		width: 100%;
+	}
+	.our-team-h .slick-dotted.slick-slider{
+		margin: 0 auto;
+	}
+	/* ===============oct 25 end========================================= */
+}
+
+@media screen and (max-width: 1366px){
+  	.banner-section{
+		height: 750px;
+	}
+	.getintouch {
+    margin-top: 10px;
+	}
+	.cart-button {
+    margin-top: 17px;
+	}
+	.search-icon{
+		margin-top: 27px;
+	}
+	.header-section-bottom{
+		padding-top: 5px;
+	}
+	.we-are-mmt .container{
+		max-width: 960px;
+	}
+	.red-button{
+		font-size: 14px;
+	}
+  .team-content-area .container, .team-list .container {
+    max-width: 930px;
+  }
+  /* =====manjusha oct 25 start=============== */
+  .banner-section:after,.banner-section:before{
+		width: 52%;
+	  }
+  .banner-section:before,.banner-section:after{
+		bottom: -2px;
+	  }
+  .offer-image img {
+		width: 100%;
+	}
+	.events-h-section-slider .date{
+		font-size: 14px;
+		margin-bottom: 18px;
+	}
+  /* =====manjusha oct 25 end=============== */
+}
+
+/* jitha 30/09 */
+@media(min-width:1200px){
+	.solutions-section .container{
+		max-width: 1199px;
+	}
+	.partners-div .container{
+		max-width: 1050px;
+	}
+	.fea-banner .container {
+	    max-width: 725px;
+	}
+	.service-features .container{
+		max-width: 1100px;
+	}
+}
+/* end */
+
+@media(min-width:992px){
+	.show-footer-text-desk{
+		display: block;
+	}
+	.show-footer-text-mob{
+		display: none;
+	}
+}
+
+@media(max-width:1120px){
+	.newsletter-wrapper h4{
+		font-size: 100px;
+	}
+		/* =============history start======================= */
+		.to-bottom {
+			max-width: 850px;
+			margin: auto;
+			left: 0;
+			right: 0;
+		}
+	
+	/* =============history end======================= */
+}
+
+@media(max-width:991px){
+
+	/* =============history start======================= */
+	.reduce-in-hist {
+		width: 274px;
+	}
+	.position-quotes img{
+		width: 80px;
+	}
+	.position-quotes {
+		left: -91px;
+		top: -26px;	
+	}	
+	.executive-content h5{
+		font-size: 16px;
+	}
+	.executive-content h6{
+		font-size: 21px
+	}
+	.history-circle{
+		width: 690px;
+		height: 690px;
+	}
+	.to-bottom {
+		max-width: 635px;
+		top: 233px;
+	}
+	.main-for-content-hist{
+		height: 710px;
+	}
+	.fifth-in {
+		right: 131px;
+		top: 4px;
+	}
+	.sixth-in {
+		right: 25px;
+		top: 109px;
+	}
+	.fourth-in {
+		left: 319px;
+		top: -42px;
+	}
+	.third-in {
+		left: 162px;
+		top: -5px;
+	}
+	.second-in {
+		left: 29px;
+		top: 102px;
+	}
+	.first-in {
+		left: -27px;
+		top: 226px;
+	}	
+	
+
+/* =============history end======================= */
+
+	.in-hr{
+		width: 0;
+	}
+	.place-in-left h1{
+		font-size: 30px;
+	}
+	.compression-sect h2{
+		font-size: 18px;
+	}
+	.place-in-left h2{
+		font-size: 20px;
+	}
+	.compressor-menus li a{
+		font-size: 12px;
+		margin-left: 13px;
+		padding-left: 40px;
+	}
+	.show-footer-text-desk{
+		display: none;
+	}
+	.show-footer-text-mob{
+		display: block;
+		border-top: solid 1px #65767e;
+	}
+	.the-footer{
+		background-attachment: fixed;
+	}
+	.the-drop-down-arrow{
+		float: right;
+		border: solid #fff;
+		border-width: 0 3px 3px 0;
+		display: inline-block;
+		padding: 3px;
+		-webkit-transform: rotate(45deg); /* WebKit */
+		-moz-transform: rotate(45deg); /* Mozilla */
+		-o-transform: rotate(45deg); /* Opera */
+		-ms-transform: rotate(45deg); /* Internet Explorer */
+		transform: rotate(45deg); /* CSS3 */
+		transition: ease-in-out .3s;
+	}
+	.the-arrow-toggle h3[aria-expanded="true"] .toggle-in-class{
+		-webkit-transform: rotate(-135deg); /* WebKit */
+		-moz-transform: rotate(-135deg); /* Mozilla */
+		-o-transform: rotate(-135deg); /* Opera */
+		-ms-transform: rotate(-135deg); /* Internet Explorer */
+		transform: rotate(-135deg); /* CSS3 */
+	}
+	.the-footer h3{
+		padding: 15px;
+		margin: 0;
+		font-size: 15px;
+	}
+	.border-btm{
+		border-bottom: solid 1px #65767e;
+		margin-bottom: 10px;
+	}
+	.the-footer p{
+		padding:0 15px ;
+		font-size: 14px;
+	}
+	.the-footer p a{
+		font-size: 14px;
+	}
+	.hide-me-mob{
+		display: none;
+	}
+	.full-width{
+		width: 100%;
+	}
+	.in-mob-footer{
+		display: block;
+		width: 100%;
+		text-align: center;
+		padding: 15px 0 0;
+	}
+	.copy-write{
+		border-top:none;
+		padding-top: 20px;
+	}
+	.footer-social-media{
+		float:none;
+		text-align: center;
+	}
+	.footer-social-media li a{
+		margin: 3px 5px 0;
+	}
+  /* jitha Rentals */
+  .framed-img{
+    width: 100%;
+  }
+  .fea-content .content-block{
+    padding: 20px 26px;
+  }
+	.fea-content.content-flip-right{
+		padding-top: 0;
+	}
+  /* =====manjusha oct 25 start=============== */
+  .banner-item .container {
+   transform: translatey(17%);
+   top: 17%;
+ }
+ .banner-item .image{
+   position: static;
+ }
+ .banner-item{
+   text-align: center;
+ }
+ .banner-section .owl-carousel .owl-item img{
+   height: auto;
+   width: 100%;
+   margin-top: 32px;
+ }
+ .our-team-h{
+   padding-bottom:0 ;
+ }
+ /* =====manjusha oct 25 end=============== */
+ /* jitha */
+ .mob-p-0.fea-content{
+	 padding-bottom: 0;
+ }
+}
+
+@media(min-width:768px){
+	.show-in-desktop{
+		display: block;
+	}
+	.show-in-show-in-mobb{
+		display: none;
+	}
+}
+
+@media(max-width:767px){
+	.newsletter-wrapper{
+		display: none;
+	}
+	.show-in-desktop{
+		display: none;
+	}
+	.show-in-show-in-mobb{
+		display: block;
+	}
+	.share-icon {
+		display: none;
+	}
+	.products-banner img {
+		width: 100%;
+		height: 139px;
+		object-fit: cover;
+	}
+	.hid-in-mob{
+		display: none;
+	}
+	.the-absolute h1{
+		font-size: 25px;
+	}
+	.products-banner {
+		margin-top: 102px;
+	}
+	.position-to{
+		top: 20px;
+	}
+	.remove-white-bg{
+		background:transparent
+	}
+	.compression-sect h2 {
+		padding-top:30px;
+		padding-bottom: 30px;
+		margin-bottom: 0;
+		padding-left: 15px;
+		padding-right:53px;
+		position: relative;
+	}
+	.compression-sect  .additional-inn{
+		padding-left: 0;
+		padding-bottom: 12px;
+		border-bottom: none;
+	}
+	.compression-sect   .add-inbrde{
+		border-bottom: solid 1px #d7d7d7;
+    	margin-bottom: 25px;
+	}
+	.place-in-left{
+		padding-left: 15px;
+	}
+	.make-100 li{
+		font-size:15px;
+	}
+	.offer-content h5{
+		font-size: 30px;
+	}
+	.offer-content h6{
+		font-size: 22px;
+	}
+	.offer-in-cat h3{
+		font-size: 17px;
+	}
+	.offer-in-cat h4{
+		font-size: 14px;
+	}
+  /* ===========manjusha oct 24 start============= */
+	.insider-mmt{
+		margin: 70px 0;
+	}
+	.insider-mmt.slick-center .insider-on-hover{
+		transform: scale(1.3);
+		z-index: 991;
+
+	}
+	.insider-mmt.slick-center{
+		padding: 3px 0px;
+	}
+
+	.insider-mmt.slick-center .slider-contents-hm{
+		padding:10px  0;
+		transition: transform .3s ease-out;
+		z-index: 1;
+	}
+	.insider-mmt.slick-center .hidden-bgs{
+		opacity: 1;
+		transform: scale(1.3);
+		box-shadow: -1px 0px 15px 5px #9e9d9c;
+		z-index: 1;
+	}
+	.insider-mmt.slick-center h3{
+		color: #fff;
+	}
+	.insider-mmt.slick-center p{
+		color: #fff;
+		display: block;
+		transform: translate(0, -5px);
+	}
+	.home-mmt .insider-mmt.slick-center .on-hoverr{
+		display: block!important;
+	}
+	.insider-mmt.slick-center .on-move{
+		display: none!important;
+	}
+	.insider-mmt.slick-center .on-hoverr{
+		display: block!important;
+	}
+	.our-team-h .slick-dotted.slick-slider {
+		position: relative;
+		margin-top: -44px;
+		z-index: 3;
+		top: 43px;
+	}
+	/* ===========manjusha oct 24 end============= */
+  /* =====manjusha oct 25 start=============== */
+  	.banner-section .owl-carousel .owl-item img {
+    	margin-top: 34px;
+	}
+	.banner-section:after, .banner-section:before {
+    	width: 54%;
+	}
+	.scroll-down.svg svg{
+		display: none;
+	}
+	.banner-item .container {
+		transform: translatey(0%);
+		top: 17%;
+	}
+	.ad-in-textt{
+		text-align: center;
+	}
+	.we-are-mmt h3,.product-home-slider-item h2 span {
+		font-size: 14px;
+	}
+	.we-are-mmt h1,.product-home-slider-item h2 {
+		font-size: 22px;
+	}
+	.product-home-slider{
+		padding: 40px 0 110px;
+	}
+	.product-home-slider-item h2{
+		width:100%;
+		line-height: inherit;
+	}
+	.owl-carousel .owl-item .product-home-slider-item img {
+		height: auto;
+		margin-top: 19px;
+	}
+	.product-home-slider-item .image {
+		width: 101%;
+		float: none;
+	}
+	.product-home-slider .owl-carousel .owl-nav button.owl-next,.product-home-slider .owl-carousel .owl-nav button.owl-prev{
+		display: none;
+	}
+	.red-button{
+		padding: 10px 14px;
+		font-size: 12px;
+	}
+	.product-home-slider-item h2{
+		margin-bottom: 14px;
+	}
+	.getquote-white-box{
+		width: 100%;
+	}
+	.getquote-white-box h3 {
+		font-size: 21px;
+	}
+	.semi-width{
+		display: inline;
+	}
+	.getquote-white-box p{
+		font-weight: 400;
+	}
+	.events-h-section{
+		padding: 0 0 50px;
+	}
+	.events-h-section .owl-theme .owl-nav {
+		top: auto;
+		bottom: 0;
+		bottom: -73px;
+	}
+	.events-h-section .owl-carousel .owl-nav button.owl-next,.events-h-section .owl-carousel .owl-nav button.owl-prev{
+		float: none;
+		position: static;
+	}
+	.events-h-section-title{
+		background: #fff;
+		padding-bottom: 20px;
+	}
+	.common-title{
+		font-size: 22px;
+		margin-bottom: 0;
+		text-align: center;
+	}
+	.events-h-section-slider{
+		padding: 32px 0 0;
+		text-align: center;
+	}
+	.events-h-section-slider .date{
+		font-size: 15px;
+		margin-bottom: 7px;
+	}
+	.events-h-section-slider h3{
+		margin-bottom: 16px;
+	}
+	.our-team-h .slider-nav  img {
+		width:50px;
+		height:50px;
+		object-fit: cover;
+	}
+	.offer-section-h {
+		padding: 0;
+		margin: 60px 0 19px;
+	}
+    /* =====manjusha oct 25 end=============== */
+  /* jitha */
+  .product-list-main{
+    padding-bottom: 50px;
+  }
+  .product-search{
+    bottom: 0;
+  }
+  .product-search .container{
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .search-hold{
+    width: 100%;
+    padding: 35px 40px 40px
+  }
+  .pro-single{
+    padding: 10px 20px;
+    height: 300px;
+  }
+  .pro-cat-list ul li{
+    width: calc(100% / 2 - 27px)
+  }
+  /* Rentals */
+  .framed-img{
+    width: 474px;
+  }
+  .fea-content p{
+    margin-top: 60px;
+  }
+  .rental-list{
+    padding-top: 0;
+    padding-bottom: 15px;
+  }
+  .xs-visible{
+  	display: block;
+  }
+  .lg-visible{
+    display: none;
+  }
+  /* team */
+  .team-slider .slick-next {
+    right: 47%;
+  }
+  .team-slider .slick-prev {
+    left: 41%;
+  }
+  .careers-notification h3{
+    font-size: 22px
+  }
+  /* Jitha 28-oct our values */
+  .team-content-area{
+    padding-bottom: 0;
+  }
+  .value-slider .slick-track{
+    margin-left: 0 !important;
+  }
+  .value-single{
+    padding: 34px 30px;
+    height: 300px;
+  }
+  .value-slider .slick-prev{
+    right: 17%;
+  }
+   /* =============history start======================= */
+
+	.to-bottom {
+		max-width: 451px;
+	}
+	.main-for-content-hist {
+		height: 600px;
+	}
+	.history-circle {
+		width: 500px;
+		height: 500px;
+	}
+	.over-ht-hide{
+		height:290px
+	}
+	.slick-current .item-inn-dot::after{
+		width: 20px;
+		height: 20px;
+		top: 28px;
+	}
+	.item-inn-dot::after{
+		width: 11px;
+		height: 11px;
+		top:32px;
+	}
+	.hist-outer{
+		width:60px;
+		height: 60px;
+	}
+	.hist-outer img {
+		margin: auto;
+		width: 21px;
+	}
+	.first-in {
+		left: -19px;
+		top: 138px;
+	}
+	.second-in {
+		left: 29px;
+		top: 57px;
+	}
+	.third-in {
+		left: 103px;
+		top: -8px;
+	}
+	.fourth-in {
+		left: 207px;
+		top: -35px;
+	}
+	.fifth-in {
+		right: 113px;
+		top: -12px;
+	}
+	.sixth-in {
+		right: 32px;
+		top: 55px;
+	}
+	.seventh-in {
+		right: -17px;
+		top: 138px;
+	}
+	.remove-to-blk{
+		display: block;
+	}
+	.executive-content{
+		text-align: center;
+		margin-bottom: 70px;
+	}
+	.position-quotes img{
+		display: none;
+	}
+	.history-content {
+		padding: 0 7px 30px;
+	}
+	.main-for-content-hist{
+		background: url(../images/historybannermed.png)no-repeat;
+		background-position: bottom center;
+    background-size: contain;
+    background-color: #f6f6f6;
+    padding-top: 0;
+	}
+	.content-section-hist h3{
+		font-size: 29px;
+	}
+	.content-section-hist p{
+		font-size: 14px;
+		padding: 0 12px;
+	}
+	.content-section-hist{
+		margin: 50px auto 10px;
+	}
+	.is-active{
+		min-height: 134px;
+		padding: 40px 0;
+	}
+  /* =============history end======================= */
+/*	Profile page Jitha*/
+	.fea-banner h4 br{
+		display: none;
+	}
+	.fea-banner h4{
+		text-align: center;
+		margin-top: 20px;
+		font-size: 20px;
+	}
+	.fea-content.content-flip-right p{
+		margin-top: 10px;
+	}
+	.tile-wrapper .tile-img{
+		height: 440px;
+	}
+	.tile-wrapper .tile-content{
+		padding: 10px 15px 10px 70px;
+	}
+	.tile-icon{
+		width: 110px;
+		height: 100px;
+	}
+	.tile-icon img {
+		width: 60px;
+		height: 60px;
+	}
+	.fea-content.content-flip-right{
+		padding-bottom: 140px;
+	}
+}
+
+@media(max-width:500px){
+  .home-mmt.owl-carousel .owl-stage-outer {
+		padding: 58px 0;
+		min-height: 319px;
+	}
+	.insider-mmt:hover .hidden-bgs{
+		transform: scale(1.5);
+	}
+  /* Jitha 28/oct value */
+  .value-single{
+    height: auto;
+  }
+}
+
+/* jitha */
+@media(max-width:575px){
+  .auto-height{
+    height: auto !important;
+  }
+  .content-tab .pro-holder.open{
+    margin-bottom: 435px !important;
+  }
+  .pro-cat-list ul li{
+    width: 100%;
+    margin: 0
+  }
+  .pro-cat-single{
+    width: 90%;
+    margin: auto;
+  }
+  .pro-single{
+    padding: 30px;
+    height: auto;
+  }
+  .pro-single img{
+    margin-bottom: 20px;
+  }
+  .product-list-carousel img{
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .product-list-carousel .owl-item .pro-cat-single{
+    background: #ECECEC;
+  }
+  .rental-list{
+    padding-top: 0 !important;
+  }
+  .rental-list .container{
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .framed-img {
+    width: 100%;
+  }
+  .fea-content p {
+    margin-bottom: 15px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .fea-content .container{
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .fea-content .img-frame{
+    left: -10px;
+  }
+  .btn-list a{
+    font-size: 14px;
+  }
+  /* team */
+  .team-slider .slick-next {
+    right: 40%;
+  }
+  .team-slider .slick-prev {
+    left: 38%;
+  }
+  .profile-holder{
+    text-align: center;
+  }
+  /* =====manjusha oct 25 start=============== */
+  .banner-item h2 {
+	font-size: 30px;
+	line-height: 39px;
+	margin-top: 18px;
+	}
+	.banner-section:after, .banner-section:before {
+		width: 60%;
+		border-width: 75px;
+	}
+	.banner-section:before, .banner-section:after {
+		bottom: -5px;
+	}
+	.banner-section {
+		height: 630px;
+	}
+	.banner-section .owl-theme .owl-dots{
+		bottom: 88px;
+	}
+  /* =====manjusha oct 25 end=============== */
+  /* ========history start===================== */
+	.to-bottom {
+		max-width: 200px;
+		}
+	.history-circle {
+		width: 275px;
+		height: 275px;
+	}
+	.over-ht-hide {
+		height: 180px;
+	}
+	.first-in {
+		left: 3px;
+		top: 196px;
+	
+	}
+	.seventh-in {
+		right: 3px;
+		top: 196px;
+	}
+	.second-in {
+		left: -34px;
+		top: 103px;
+	}
+	.sixth-in {
+		right: -34px;
+		top: 103px;
+	}
+	.third-in {
+		left: 8px;
+		top: 11px;
+	
+	}
+	.fifth-in {
+		right: 8px;
+		top: 11px;
+	}
+	.fourth-in {
+		left: 102px;
+		top: -35px;
+	}
+	.main-for-content-hist {
+		height: 499px;
+	}
+  /* =========history end======================== */
+}
+@media (max-width: 425px){
+  .value-slider .slick-prev {
+    right: 20%;
+  }
+}
